@@ -2,7 +2,7 @@
 ; td3.asm
 ;
 ; Created: 19/11/2019 08:51:10
-; Author : Nicolas
+; Author : Nicolas STAS
 ;
 
 .NOLIST
