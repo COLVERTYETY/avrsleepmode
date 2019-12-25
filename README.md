@@ -17,7 +17,7 @@ Current sleemode is PowerDown.
 
 ### for reference other sleep modes are
 
-* 000:Idle Mode
+  * 000:Idle Mode
 * 001:ADC noise Reduction Mode
 * 010:PowerDown Mode
 * 011:Standby
