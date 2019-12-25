@@ -12,4 +12,3 @@ for reference other sleep modes are:
         010:PowerDown Mode
         011:Standby
         111:Extended Standby
-        
