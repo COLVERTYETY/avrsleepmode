@@ -19,7 +19,7 @@ Two interrupts are used to either send the mcu to sleepmode(INTV1) or to wake it
 The number of times the mcu has been waken up are counted in the "count" register.
 Current sleemode is PowerDown.
 
-##### for reference other sleep modes are:
+#### for reference other sleep modes are:
 
 * 000:Idle Mode
 * 001:ADC noise Reduction Mode
