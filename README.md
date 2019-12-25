@@ -1,4 +1,4 @@
-# avrsleepmode
+# avrsleepmode [![Codacy Badge](https://api.codacy.com/project/badge/Grade/547f99d5b02a436ea8ea8a31868fbcb1)](https://www.codacy.com/manual/COLVERTYETY/avrsleepmode?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=COLVERTYETY/avrsleepmode&amp;utm_campaign=Badge_Grade)
 exemple code on how to use sleep mode on an atmega328p in avr assembly.
 This code was written as part of a 1st year course on mcu architecture.
 If any avrfreaks would happen to pass by I am open to all critiscisme an pull requests.
