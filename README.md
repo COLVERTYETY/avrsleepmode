@@ -21,4 +21,4 @@ Current sleemode is PowerDown.
 * 001 : ADC noise Reduction Mode
 * 010 : PowerDown Mode
 * 011 : Standby
-* 111 : Extended Standby
+* 111:Extended Standby
